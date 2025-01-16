@@ -1,0 +1,1 @@
+Esse projeto é direcionado a documentar minha evolução apredendo python.
