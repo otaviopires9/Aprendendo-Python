@@ -4,16 +4,16 @@
 
 friends = 10
 
-#friends = friends - 1 #Podemos encurtar isso, usando:
-#friends -= 6 #(Usando operadores aumentados de atribuição) é quando se coloca os sinais 
-#friends = friends + 2
-#friends += 2
-#friends = friends * 5
-#friends *= 5 
-#friends = friends / 10
-#friends /= 10
-#friends = friends ** 2
-#friends **= 2
+friends = friends - 1 #Podemos encurtar isso, usando:
+friends -= 6 #(Usando operadores aumentados de atribuição) é quando se coloca os sinais 
+friends = friends + 2
+friends += 2
+friends = friends * 5
+friends *= 5 
+friends = friends / 10
+friends /= 10
+friends = friends ** 2
+friends **= 2
 remainder = friends % 4 #coloca o módulo(%) e depois o número que você quer dividir
 
 print (remainder)
